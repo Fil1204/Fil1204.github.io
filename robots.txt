@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: http://fil1204.github.io/sitemap.xml
