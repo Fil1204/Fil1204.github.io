@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://fil1204.github.io/index.html</loc>
+        <loc>https://fil1204.github.io/index.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://fil1204.github.io/about.html</loc>
+        <loc>https://fil1204.github.io/about.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
-        <loc>http://fil1204.github.io/teatry.html</loc>
+        <loc>https://fil1204.github.io/teatry.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>http://fil1204.github.io/muz_teatr.html</loc>
+        <loc>https://fil1204.github.io/muz_teatr.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://fil1204.github.io/teatr_academ.html</loc>
+        <loc>https://fil1204.github.io/teatr_academ.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://fil1204.github.io/teatr_kukol.html</loc>
+        <loc>https://fil1204.github.io/teatr_kukol.html</loc>
         <lastmod>2019-06-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
